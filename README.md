@@ -96,18 +96,6 @@ Follow [docs/00_supabase_setup.md](docs/00_supabase_setup.md) to:
 > The author assumes **no responsibility** for any costs, damages, or issues arising from the use of this guide.
 > Use at your own risk and always follow best practices and your organization’s security/compliance guidelines.
 
-## ⚠️ Disclaimer and Cost Warning
-
-> This repository is an **independent educational project** created for learning purposes only.
->
-> - It is **not affiliated with, endorsed by, or supported by** Amazon Web Services (AWS), Supabase, or any other cloud provider.
-> - It is **not intended for production use** without thorough testing and validation.
-> - **AWS and Supabase may incur usage costs** when following this guide. Ensure you monitor and clean up your resources to avoid unexpected charges.
->
-> The author assumes **no responsibility** for any costs, damages, or issues arising from the use of this guide.  
-> Use at your own risk and always follow best practices and your organization’s security/compliance guidelines.
-
-
 ##  License
 
 This project is licensed under the [MIT License](LICENSE).
