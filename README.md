@@ -4,7 +4,7 @@ A beginner-friendly, end-to-end tutorial for using **Supabase as your PostgreSQL
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 You’ll learn to:
 - Set up a Supabase PostgreSQL database
@@ -14,7 +14,7 @@ You’ll learn to:
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```
 supabase-postgresql-python-tutorial/
@@ -29,9 +29,9 @@ supabase-postgresql-python-tutorial/
 
 ---
 
-## 💻 How to Run in SageMaker
+##  How to Run in SageMaker
 
-### ✅ Step 1: Launch a SageMaker Notebook Instance
+###  Step 1: Launch a SageMaker Notebook Instance
 
 1. Sign in to [AWS Console](https://console.aws.amazon.com/)
 2. Open **SageMaker > Notebook Instances**
@@ -45,7 +45,7 @@ supabase-postgresql-python-tutorial/
 
 ---
 
-### ✅ Step 2: Upload This Project
+###  Step 2: Upload This Project
 
 1. Download the ZIP file from this repo
 2. Upload and unzip inside Jupyter
@@ -53,7 +53,7 @@ supabase-postgresql-python-tutorial/
 
 ---
 
-### ✅ Step 3: Install Dependencies
+###  Step 3: Install Dependencies
 
 Run in a new notebook cell:
 
@@ -63,7 +63,7 @@ Run in a new notebook cell:
 
 ---
 
-## 🔑 Supabase Setup
+##  Supabase Setup
 
 Follow [docs/00_supabase_setup.md](docs/00_supabase_setup.md) to:
 - Create Supabase project
@@ -72,19 +72,19 @@ Follow [docs/00_supabase_setup.md](docs/00_supabase_setup.md) to:
 
 ---
 
-## 📗 Run the Tutorial
+##  Run the Tutorial
 
 1. Start with `01_getting_started.ipynb`
 2. Then explore future notebooks: CRUD, real-time, deployment
 
 ---
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 - See [docs/troubleshooting.md](docs/troubleshooting.md)
 
 ---
 
-## 🧾 License
+##  License
 
 MIT
