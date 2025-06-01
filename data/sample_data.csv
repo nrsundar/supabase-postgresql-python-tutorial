@@ -1,0 +1,6 @@
+email,name,product_name,quantity,price
+john.doe@example.com,John Doe,Laptop,1,999.99
+jane.smith@example.com,Jane Smith,Mouse,2,29.99
+bob.wilson@example.com,Bob Wilson,Keyboard,1,79.99
+alice.brown@example.com,Alice Brown,Monitor,1,299.99
+charlie.davis@example.com,Charlie Davis,Headphones,1,149.99

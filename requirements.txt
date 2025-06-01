@@ -1,0 +1,11 @@
+supabase==2.0.0
+pandas
+numpy
+jupyter
+python-dotenv
+psycopg2-binary
+sqlalchemy
+matplotlib
+seaborn
+boto3
+sagemaker
